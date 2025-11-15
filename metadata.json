@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Suspect Reporting System",
+  "description": "An application for the general public in India to report individuals suspected of being illegal immigrants. Users can provide details about the person, their location, a picture, and optionally their own contact information to assist authorities.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
